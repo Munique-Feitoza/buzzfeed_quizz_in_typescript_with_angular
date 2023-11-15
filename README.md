@@ -1,5 +1,6 @@
-# ProjetoBuzzfeed
+# BuzzFeed Quizz in Typescript with Angular
 
+A BuzzFeed Quizz Clone.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
